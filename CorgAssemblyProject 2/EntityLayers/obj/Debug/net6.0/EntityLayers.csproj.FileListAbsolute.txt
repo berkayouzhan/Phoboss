@@ -1,0 +1,112 @@
+C:/Users/MSI/source/repos/EntityLayers/obj/Debug/net6.0/EntityLayers.csproj.AssemblyReference.cache
+C:/Users/MSI/source/repos/EntityLayers/obj/Debug/net6.0/EntityLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/MSI/source/repos/EntityLayers/obj/Debug/net6.0/EntityLayers.AssemblyInfoInputs.cache
+C:/Users/MSI/source/repos/EntityLayers/obj/Debug/net6.0/EntityLayers.AssemblyInfo.cs
+C:/Users/MSI/source/repos/EntityLayers/obj/Debug/net6.0/EntityLayers.csproj.CoreCompileInputs.cache
+C:/Users/MSI/Windows/Desktop/newEdition/EntityLayers/bin/Debug/net6.0/EntityLayers.deps.json
+C:/Users/MSI/Windows/Desktop/newEdition/EntityLayers/bin/Debug/net6.0/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/newEdition/EntityLayers/bin/Debug/net6.0/EntityLayers.pdb
+C:/Users/MSI/Windows/Desktop/newEdition/EntityLayers/obj/Debug/net6.0/EntityLayers.csproj.AssemblyReference.cache
+C:/Users/MSI/Windows/Desktop/newEdition/EntityLayers/obj/Debug/net6.0/EntityLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/MSI/Windows/Desktop/newEdition/EntityLayers/obj/Debug/net6.0/EntityLayers.AssemblyInfoInputs.cache
+C:/Users/MSI/Windows/Desktop/newEdition/EntityLayers/obj/Debug/net6.0/EntityLayers.AssemblyInfo.cs
+C:/Users/MSI/Windows/Desktop/newEdition/EntityLayers/obj/Debug/net6.0/EntityLayers.csproj.CoreCompileInputs.cache
+C:/Users/MSI/Windows/Desktop/newEdition/EntityLayers/obj/Debug/net6.0/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/newEdition/EntityLayers/obj/Debug/net6.0/refint/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/newEdition/EntityLayers/obj/Debug/net6.0/EntityLayers.pdb
+C:/Users/MSI/Windows/Desktop/newEdition/EntityLayers/obj/Debug/net6.0/ref/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/newEdition/GalaksiCorgPowerSonSürüm/EntityLayers/bin/Debug/net6.0/EntityLayers.deps.json
+C:/Users/MSI/Windows/Desktop/newEdition/GalaksiCorgPowerSonSürüm/EntityLayers/bin/Debug/net6.0/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/newEdition/GalaksiCorgPowerSonSürüm/EntityLayers/bin/Debug/net6.0/EntityLayers.pdb
+C:/Users/MSI/Windows/Desktop/newEdition/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.csproj.AssemblyReference.cache
+C:/Users/MSI/Windows/Desktop/newEdition/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/MSI/Windows/Desktop/newEdition/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.AssemblyInfoInputs.cache
+C:/Users/MSI/Windows/Desktop/newEdition/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.AssemblyInfo.cs
+C:/Users/MSI/Windows/Desktop/newEdition/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.csproj.CoreCompileInputs.cache
+C:/Users/MSI/Windows/Desktop/newEdition/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/newEdition/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/refint/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/newEdition/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.pdb
+C:/Users/MSI/Windows/Desktop/newEdition/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/ref/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/GalaksiCorgPowerSonSürüm/EntityLayers/bin/Debug/net6.0/EntityLayers.deps.json
+C:/Users/MSI/Windows/Desktop/GalaksiCorgPowerSonSürüm/EntityLayers/bin/Debug/net6.0/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/GalaksiCorgPowerSonSürüm/EntityLayers/bin/Debug/net6.0/EntityLayers.pdb
+C:/Users/MSI/Windows/Desktop/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.csproj.AssemblyReference.cache
+C:/Users/MSI/Windows/Desktop/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/MSI/Windows/Desktop/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.AssemblyInfoInputs.cache
+C:/Users/MSI/Windows/Desktop/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.AssemblyInfo.cs
+C:/Users/MSI/Windows/Desktop/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.csproj.CoreCompileInputs.cache
+C:/Users/MSI/Windows/Desktop/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/refint/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.pdb
+C:/Users/MSI/Windows/Desktop/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/ref/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/DERSLER/GalaksiCorgPowerSonSürüm/EntityLayers/bin/Debug/net6.0/EntityLayers.deps.json
+C:/Users/MSI/Windows/Desktop/DERSLER/GalaksiCorgPowerSonSürüm/EntityLayers/bin/Debug/net6.0/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/DERSLER/GalaksiCorgPowerSonSürüm/EntityLayers/bin/Debug/net6.0/EntityLayers.pdb
+C:/Users/MSI/Windows/Desktop/DERSLER/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.csproj.AssemblyReference.cache
+C:/Users/MSI/Windows/Desktop/DERSLER/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/MSI/Windows/Desktop/DERSLER/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.AssemblyInfoInputs.cache
+C:/Users/MSI/Windows/Desktop/DERSLER/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.AssemblyInfo.cs
+C:/Users/MSI/Windows/Desktop/DERSLER/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.csproj.CoreCompileInputs.cache
+C:/Users/MSI/Windows/Desktop/DERSLER/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/DERSLER/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/refint/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/DERSLER/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.pdb
+C:/Users/MSI/Windows/Desktop/DERSLER/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/ref/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/copy/GalaksiCorgPowerSonSürüm/EntityLayers/bin/Debug/net6.0/EntityLayers.deps.json
+C:/Users/MSI/Windows/Desktop/copy/GalaksiCorgPowerSonSürüm/EntityLayers/bin/Debug/net6.0/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/copy/GalaksiCorgPowerSonSürüm/EntityLayers/bin/Debug/net6.0/EntityLayers.pdb
+C:/Users/MSI/Windows/Desktop/copy/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.csproj.AssemblyReference.cache
+C:/Users/MSI/Windows/Desktop/copy/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/MSI/Windows/Desktop/copy/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.AssemblyInfoInputs.cache
+C:/Users/MSI/Windows/Desktop/copy/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.AssemblyInfo.cs
+C:/Users/MSI/Windows/Desktop/copy/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.csproj.CoreCompileInputs.cache
+C:/Users/MSI/Windows/Desktop/copy/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/copy/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/refint/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/copy/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.pdb
+C:/Users/MSI/Windows/Desktop/copy/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/ref/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/EnYeniCorgProjesi/GalaksiCorgPowerSonSürüm/EntityLayers/bin/Debug/net6.0/EntityLayers.deps.json
+C:/Users/MSI/Windows/Desktop/EnYeniCorgProjesi/GalaksiCorgPowerSonSürüm/EntityLayers/bin/Debug/net6.0/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/EnYeniCorgProjesi/GalaksiCorgPowerSonSürüm/EntityLayers/bin/Debug/net6.0/EntityLayers.pdb
+C:/Users/MSI/Windows/Desktop/EnYeniCorgProjesi/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.csproj.AssemblyReference.cache
+C:/Users/MSI/Windows/Desktop/EnYeniCorgProjesi/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/MSI/Windows/Desktop/EnYeniCorgProjesi/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.AssemblyInfoInputs.cache
+C:/Users/MSI/Windows/Desktop/EnYeniCorgProjesi/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.AssemblyInfo.cs
+C:/Users/MSI/Windows/Desktop/EnYeniCorgProjesi/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.csproj.CoreCompileInputs.cache
+C:/Users/MSI/Windows/Desktop/EnYeniCorgProjesi/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/EnYeniCorgProjesi/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/refint/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/EnYeniCorgProjesi/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/EntityLayers.pdb
+C:/Users/MSI/Windows/Desktop/EnYeniCorgProjesi/GalaksiCorgPowerSonSürüm/EntityLayers/obj/Debug/net6.0/ref/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/CorgAssemblyProject/EntityLayers/bin/Debug/net6.0/EntityLayers.deps.json
+C:/Users/MSI/Windows/Desktop/CorgAssemblyProject/EntityLayers/bin/Debug/net6.0/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/CorgAssemblyProject/EntityLayers/bin/Debug/net6.0/EntityLayers.pdb
+C:/Users/MSI/Windows/Desktop/CorgAssemblyProject/EntityLayers/obj/Debug/net6.0/EntityLayers.csproj.AssemblyReference.cache
+C:/Users/MSI/Windows/Desktop/CorgAssemblyProject/EntityLayers/obj/Debug/net6.0/EntityLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/MSI/Windows/Desktop/CorgAssemblyProject/EntityLayers/obj/Debug/net6.0/EntityLayers.AssemblyInfoInputs.cache
+C:/Users/MSI/Windows/Desktop/CorgAssemblyProject/EntityLayers/obj/Debug/net6.0/EntityLayers.AssemblyInfo.cs
+C:/Users/MSI/Windows/Desktop/CorgAssemblyProject/EntityLayers/obj/Debug/net6.0/EntityLayers.csproj.CoreCompileInputs.cache
+C:/Users/MSI/Windows/Desktop/CorgAssemblyProject/EntityLayers/obj/Debug/net6.0/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/CorgAssemblyProject/EntityLayers/obj/Debug/net6.0/refint/EntityLayers.dll
+C:/Users/MSI/Windows/Desktop/CorgAssemblyProject/EntityLayers/obj/Debug/net6.0/EntityLayers.pdb
+C:/Users/MSI/Windows/Desktop/CorgAssemblyProject/EntityLayers/obj/Debug/net6.0/ref/EntityLayers.dll
+C:/Users/eserg/Desktop/pro/CorgAssemblyProject/EntityLayers/bin/Debug/net6.0/EntityLayers.deps.json
+C:/Users/eserg/Desktop/pro/CorgAssemblyProject/EntityLayers/bin/Debug/net6.0/EntityLayers.dll
+C:/Users/eserg/Desktop/pro/CorgAssemblyProject/EntityLayers/bin/Debug/net6.0/EntityLayers.pdb
+C:/Users/eserg/Desktop/pro/CorgAssemblyProject/EntityLayers/obj/Debug/net6.0/EntityLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/eserg/Desktop/pro/CorgAssemblyProject/EntityLayers/obj/Debug/net6.0/EntityLayers.AssemblyInfoInputs.cache
+C:/Users/eserg/Desktop/pro/CorgAssemblyProject/EntityLayers/obj/Debug/net6.0/EntityLayers.AssemblyInfo.cs
+C:/Users/eserg/Desktop/pro/CorgAssemblyProject/EntityLayers/obj/Debug/net6.0/EntityLayers.csproj.CoreCompileInputs.cache
+C:/Users/eserg/Desktop/pro/CorgAssemblyProject/EntityLayers/obj/Debug/net6.0/EntityLayers.dll
+C:/Users/eserg/Desktop/pro/CorgAssemblyProject/EntityLayers/obj/Debug/net6.0/refint/EntityLayers.dll
+C:/Users/eserg/Desktop/pro/CorgAssemblyProject/EntityLayers/obj/Debug/net6.0/EntityLayers.pdb
+C:/Users/eserg/Desktop/pro/CorgAssemblyProject/EntityLayers/obj/Debug/net6.0/ref/EntityLayers.dll
+/Users/sercanyesil/Downloads/CorgAssemblyProject 2/EntityLayers/bin/Debug/net6.0/EntityLayers.deps.json
+/Users/sercanyesil/Downloads/CorgAssemblyProject 2/EntityLayers/bin/Debug/net6.0/EntityLayers.dll
+/Users/sercanyesil/Downloads/CorgAssemblyProject 2/EntityLayers/bin/Debug/net6.0/EntityLayers.pdb
+/Users/sercanyesil/Downloads/CorgAssemblyProject 2/EntityLayers/obj/Debug/net6.0/EntityLayers.csproj.AssemblyReference.cache
+/Users/sercanyesil/Downloads/CorgAssemblyProject 2/EntityLayers/obj/Debug/net6.0/EntityLayers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sercanyesil/Downloads/CorgAssemblyProject 2/EntityLayers/obj/Debug/net6.0/EntityLayers.AssemblyInfoInputs.cache
+/Users/sercanyesil/Downloads/CorgAssemblyProject 2/EntityLayers/obj/Debug/net6.0/EntityLayers.AssemblyInfo.cs
+/Users/sercanyesil/Downloads/CorgAssemblyProject 2/EntityLayers/obj/Debug/net6.0/EntityLayers.csproj.CoreCompileInputs.cache
+/Users/sercanyesil/Downloads/CorgAssemblyProject 2/EntityLayers/obj/Debug/net6.0/EntityLayers.dll
+/Users/sercanyesil/Downloads/CorgAssemblyProject 2/EntityLayers/obj/Debug/net6.0/refint/EntityLayers.dll
+/Users/sercanyesil/Downloads/CorgAssemblyProject 2/EntityLayers/obj/Debug/net6.0/EntityLayers.pdb
+/Users/sercanyesil/Downloads/CorgAssemblyProject 2/EntityLayers/obj/Debug/net6.0/ref/EntityLayers.dll
